@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/projetoB2W.iml" filepath="$PROJECT_DIR$/projetoB2W.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projetoB2W/projetoB2W-projetoB2W.iml" filepath="$PROJECT_DIR$/projetoB2W/projetoB2W-projetoB2W.iml" />
+    </modules>
+  </component>
+</project>
